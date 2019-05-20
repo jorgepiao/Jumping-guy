@@ -53,9 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\EnemyController.cs" />
-     <Compile Include="Assets\PlayerController.cs" />
+     <Compile Include="Assets\EnemyGeneratorController.cs" />
+     <Compile Include="Assets\Scripts\EnemyController.cs" />
      <Compile Include="Assets\Scripts\GameController.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
      <None Include="Assets\Audio\License.txt" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/AMD A6/Documents/Unity/Juego-2D-proyecto/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
