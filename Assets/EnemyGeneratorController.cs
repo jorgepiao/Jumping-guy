@@ -5,7 +5,7 @@ using UnityEngine;
 public class EnemyGeneratorController : MonoBehaviour
 {
     public GameObject enemyPrefab;
-    public float generatorTimer = 1.75f;
+    public float generatorTimer = 2f;
 
     // Start is called before the first frame update
     void Start()
